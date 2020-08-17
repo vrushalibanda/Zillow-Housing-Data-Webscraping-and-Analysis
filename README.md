@@ -1,1 +1,2 @@
 # Zillow-Housing-Data-webscraping-and-analysis
+•The real estate market is something that every person living in the country has to deal with, and as a result it makes a great topic about data analytics. The housing price or rental price in San Francisco Bay Area accelerating at shocking rates. From 2010 to 2017, the median price of a single family home in San Francisco has gone from approximately &775,000 to $1.5 million
