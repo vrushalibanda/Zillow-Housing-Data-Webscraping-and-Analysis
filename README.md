@@ -8,10 +8,10 @@ This project was aimed at collecting real estate data from The zillow website by
 
 #Python Libraries used:
 
-BeautifulSoup (for scraping)
-Seaborn
-matplotlib
-RE
+ BeautifulSoup (for scraping)
+ Seaborn
+ matplotlib
+ RE
 
 #Web scraping:
 
