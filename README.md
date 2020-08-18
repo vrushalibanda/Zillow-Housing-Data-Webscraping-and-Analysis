@@ -13,13 +13,13 @@ Seaborn
 matplotlib
 RE
 
-Web scraping:
+#Web scraping:
 
 Data was collected for various California counties by scraping the zillow website for sold houses and new listings. The type of data collected includes the basic data of the house (beds, baths, area, price, etc) and some advanced data as well like type of property, schools in the area, walking and biking convenience, etc.
 
 This data was then cleaned to make it ready for analysis. Redundant data was removed. Missing data was treated properly.
 
-Analysis:
+#Analysis:
 
 Seaborn and matplotlib were used to do visualization of the data. The visualization gave some very good information about the trends we see with respect to the type of property. For instance, we see that Townhouses are very famous in the bay area, especially San Francisco. This is because there is not enough land available there to build new houses.
 
