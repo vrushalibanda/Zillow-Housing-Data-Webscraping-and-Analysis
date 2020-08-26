@@ -29,3 +29,4 @@ Seaborn and matplotlib were used to do visualization of the data. The visualizat
 There was other analysis done as well using property type and other fields.
 
 
+
