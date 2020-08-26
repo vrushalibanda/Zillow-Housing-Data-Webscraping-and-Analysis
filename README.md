@@ -24,7 +24,7 @@ This data was then cleaned to make it ready for analysis. Redundant data was rem
 
 #Analysis:
 
-Seaborn and matplotlib were used to do visualization of the data. The visualization gave some very good information about the trends we see with respect to the type of property. For instance, we see that Townhouses are very famous in the bay area, especially San Francisco. This is because there is not enough land available there to build new houses.
+Seaborn and matplotlib were used to do visualization of the data. The visualization gave some very good information about the trends we see with respect to the type of property. For instance, Palo Alto was expensive. But the more interesting observation was that the price difference between a 2br and a 3br house is not so much different. we also see that Townhouses are very famous in the bay area, especially San Francisco. This is because there is not enough land available there to build new houses.
 
 There was other analysis done as well using property type and other fields.
 
