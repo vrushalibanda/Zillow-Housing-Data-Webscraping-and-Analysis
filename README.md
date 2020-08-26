@@ -1,5 +1,8 @@
 # Zillow-Housing-Data-webscraping-and-Analysis 
 
+
+In this project, I scraped data from Zillow website using different Python packages including Beautiful Soup. Data scraping was especially interesting to me since I learnt how I could suddenly gather data from so many new sources that I found difficult before. Once I scraped this data, I cleaned the data and performed exploratory data analysis, to understand housing price trends in the Bay Area. Certainly, Palo Alto was expensive. But the more interesting observation was that the price difference between a 2br and a 3br house is not so much different. This insight will certainly be helpful as I think about owing my first home in the future. Further, we performed a linear regression to arrive at the Zestimate (Zillow's estimate for the fair value of the house). While the model wasn't very accurate due to its reliance on one type of data only, I enjoyed learning about how these tools can be used to perform interesting analysis, including some for my personal use
+
 #Problem Description
 
 
@@ -24,3 +27,5 @@ This data was then cleaned to make it ready for analysis. Redundant data was rem
 Seaborn and matplotlib were used to do visualization of the data. The visualization gave some very good information about the trends we see with respect to the type of property. For instance, we see that Townhouses are very famous in the bay area, especially San Francisco. This is because there is not enough land available there to build new houses.
 
 There was other analysis done as well using property type and other fields.
+
+
